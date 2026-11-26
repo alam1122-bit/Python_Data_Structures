@@ -1,5 +1,7 @@
+# Looking Inside Strings 
+
 fruit = 'BANANA'
-letter = fruit[1]
+letter = fruit[1]  # Index number
 print(letter)
 
 x = 2
